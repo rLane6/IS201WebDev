@@ -1,0 +1,43 @@
+body {
+    background-image: url("../images/bodybackground2.jpg");
+}
+.name {
+    font-family: 'Luxurious Roman', cursive;
+}
+.bg-dark {
+    background-image: url("../images/headerbackground.jpg");
+}
+.mb-0 {
+    font-weight: normal;
+    font-size: .75em;
+}
+.school-stats {
+    margin-top: 10px;
+    color: black;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.fw-bolder {
+    font-family: 'Love Light', cursive;
+    font-size: 3em;
+    color: rgb(65, 0, 38);
+    text-align: center;
+}
+.school-link {
+    color: rgb(158, 58, 189);
+}
+.courses {
+    margin-top: 10px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.center-it {
+    margin: auto;
+}
+.Copyright {
+    color: white;
+    text-align: center;
+    font-size: .75em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
